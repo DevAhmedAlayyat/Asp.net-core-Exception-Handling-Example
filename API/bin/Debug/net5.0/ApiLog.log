@@ -1,0 +1,15 @@
+2021-09-08 12:43:43,690  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: https://localhost:5001
+ 2021-09-08 12:43:43,808  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: http://localhost:5000
+ 2021-09-08 12:43:43,809  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-09-08 12:43:43,812  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2021-09-08 12:43:43,813  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\Ahmed Alayat\source\repos\LoggingAndExceptionHandling\API
+ 2021-09-08 12:44:17,845  INFO Microsoft.Hosting.Lifetime.OnApplicationStopping [0] - MESSAGE: Application is shutting down...
+ 2021-09-08 12:56:17,662  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: https://localhost:5001
+ 2021-09-08 12:56:17,790  INFO Microsoft.Hosting.Lifetime.MoveNext [0] - MESSAGE: Now listening on: http://localhost:5000
+ 2021-09-08 12:56:17,791  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2021-09-08 12:56:17,792  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2021-09-08 12:56:17,794  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\Ahmed Alayat\source\repos\LoggingAndExceptionHandling\API
+ 2021-09-08 12:56:45,985 ERROR API.Middlewares.ServerErrorExceptionMiddleware.MoveNext [32] - MESSAGE: Ambiguous HTTP method for action - API.Controllers.NotFoundErrorController.HandleNotFoundEndPoints (API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+ 2021-09-08 12:57:36,721 ERROR API.Middlewares.ServerErrorExceptionMiddleware.MoveNext [32] - MESSAGE: Server Error ......
+ 2021-09-08 13:04:38,998  INFO Microsoft.Hosting.Lifetime.OnApplicationStopping [0] - MESSAGE: Application is shutting down...
+ 
